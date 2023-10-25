@@ -20,8 +20,8 @@ author: fedecatt
 ###############################################
 
 navbar-links:
-  About Me: "que hacemos?"
-  Resources:
+  Que hacemos?: "aboutme"
+  Recursos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Contacto: "https://deanattali.com"
