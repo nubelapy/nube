@@ -33,6 +33,14 @@
 
 {% if page.js %}
   {% for js in page.js %}
+  
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Nube-commerce"
+  agent-id="bcd27783-5453-43fa-8339-ecaa4330e52d"
+  language-code="es"
+></df-messenger>
