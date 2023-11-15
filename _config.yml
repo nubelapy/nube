@@ -54,8 +54,8 @@ round-avatar: true
 social-network-links:
   email: "nubelapy@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/nubelapy
-  github: https://github.com/nubelapy
+  facebook: /nubelapy
+  github: /nubelapy
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -65,7 +65,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: https://www.instagram.com/nubep_y/
+  instagram: /nubep_y
 #  spotify: yourname
   telephone: +595991855292
 #  steam: deanat78
