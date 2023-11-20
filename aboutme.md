@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre nosotros
+subtitle: ¿Por qué querrías tener una cita con nosotros?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Qué nos hace diferentes:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Nos especializamos en marketing de crecimiento y automatización de procesos para empresas de todos los tamaños, desde pequeñas empresas hasta grandes corporaciones.
+- Ofrecemos servicios personalizados que se adaptan a las necesidades específicas de cada cliente.
+- Utilizamos las últimas técnicas y tendencias.
 
 What else do you need?
 
