@@ -19,6 +19,14 @@ subtitle: ¿Por qué querrías tener una cita con nosotros?
 
 
 
-### My story
+### Ejemplos de cómo podemos ayudarte:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Podemos ayudarte a supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google.
+- Podemos ayudarte con analíticas del sitio para crear contenido.
+- Podemos ayudarte a desarrollar un sitio web o blog que sea atractivo y fácil de usar.
+- Podemos ayudarte a crear contenido de marketing que sea relevante y atractivo para tu público objetivo.
+- Podemos ayudarte a gestionar tus campañas de marketing en redes sociales.
+- Podemos ayudarte a automatizar tus procesos con aplicaciones para móviles, tabletas y web que se adapten a las necesidades específicas de tu empresa. Desde CRM hasta comercio electrónico, contabilidad, inventario, punto de venta, seguimiento de entregas, gestión de proyectos y mucho más.
+- Podemos ayudarte con IA de conversación realista con agentes virtuales para sus aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales.
+- Podemos ayudarte a crear atractivas campañas de marketing por correo electrónico que atraen tráfico, generan ventas y le posicionan como líder de opinión en su campo.
+- Podemos  ayudar a su empresa o marca a llegar a las masas enviando campañas masivas por WhatsApp con promociones, catálogos o contenido multimedia.
