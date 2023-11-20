@@ -4,19 +4,19 @@ title: Sobre Nosotros
 subtitle: ¿Por qué querrías tener una cita con nosotros?
 ---
 
-Beneficios de nuestros servicios:
+### Beneficios de nuestros servicios:
 - Incremento del tráfico web
 - Mejoras de la visibilidad de tu marca
 - Construcción de relaciones con los clientes
 
-Qué nos hace diferentes:
+### Qué nos hace diferentes:
 
 - Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a las empresas a adquirir y retener clientes. 
 - Nos especializamos en marketing de crecimiento y automatización de procesos para empresas de todos los tamaños, desde pequeñas empresas hasta grandes corporaciones.
 - Ofrecemos servicios personalizados que se adaptan a las necesidades específicas de cada cliente.
 - Utilizamos las últimas técnicas y tendencias.
 
-Ejemplos de cómo podemos ayudarte:
+
 
 
 ### My story
