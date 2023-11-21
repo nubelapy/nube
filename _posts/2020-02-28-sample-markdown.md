@@ -3,13 +3,13 @@ layout: post
 title: Bienvenidos a nube
 subtitle: No somos una agencia. No somos una empresa de personal.
 gh-repo: /nubelapy/nube
-gh-badge: [star, fork, follow]
+gh-badge: [star,follow]
 tags: [growth marketing]
 comments: true
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing digital localizado y de servicio completo. Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a su empresa a adquirir y retener clientes. Le recomiendo encarecidamente que se [tome 5 minutos en explorar como le podemos ayudar ](https://www.facebook.com/nube.io) o saber más de nosotros y los [beneficios de nuestros servicios](https://nubelapy.github.io/nube/aboutme/) .
 
 **Here is some bold text**
 
