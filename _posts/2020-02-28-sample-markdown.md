@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bienvenidos a nube.io
-subtitle: No somos una agencia. No somos una empresa de personal. Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a las empresas a adquirir y retener clientes. 
-gh-repo: daattali/beautiful-jekyll
+title: Bienvenidos a nube
+subtitle: No somos una agencia. No somos una empresa de personal.
+gh-repo: /nubelapy/nube
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [growth marketing]
 comments: true
 ---
 
