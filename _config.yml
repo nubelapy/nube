@@ -147,7 +147,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
@@ -158,14 +158,14 @@ page-img: "/assets/img/bgimage.png"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-  - "/assets/js/custom-script.js"
+#  - "/assets/js/custom-script.js"
 
 #################################
 # --- Web Analytics Section --- #
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-#gtag: "G-XXXXXXXXXX"
+gtag: "G-PPMPSXVH43"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
