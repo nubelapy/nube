@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Bienvenidos a nube.io
+subtitle: No somos una agencia. No somos una empresa de personal. Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a las empresas a adquirir y retener clientes. 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
