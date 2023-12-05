@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing de crecimiento todo en uno para empresas que buscan crecer.🚀
+title: Marketing de crecimiento todo en uno para empresas que buscan crecer 🚀
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
