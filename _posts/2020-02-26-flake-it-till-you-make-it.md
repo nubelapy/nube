@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Marketing de crecimiento todo en uno para empresas que buscan crecer 🚀
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Aplicación para todas las necesidades de tu empresa
+subtitle: ¿Eres un emprendedor o dueño de una pequeña empresa?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+¿Eres un emprendedor o dueño de una pequeña empresa? ¿Estás cansado de tener que utilizar diferentes aplicaciones para cada necesidad de tu negocio? ¿Buscas una solución que sea fácil de usar, asequible y que te permita ahorrar tiempo y dinero?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Si es así, entonces necesitas conocer nuestra aplicación, una aplicación web y app que cubre todas las necesidades de tu empresa: CRM, comercio electrónico, contabilidad, inventario, punto de venta, gestión de proyectos, etc.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Nuestra aplicación es la solución perfecta para las empresas de todos los tamaños. Es fácil de usar, incluso para los usuarios no técnicos. Tiene una interfaz intuitiva y una gran variedad de funciones que te permitirán gestionar tu negocio de manera eficiente.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Algunas de las principales ventajas incluyen:
+
+Cobertura total de las necesidades de tu empresa: Incluye una amplia gama de funciones que te permitirán gestionar todos los aspectos de tu negocio, desde el marketing y las ventas hasta la contabilidad y el inventario.
+
+Facilidad de uso: Es fácil de usar, incluso para los usuarios no técnicos. Tiene una interfaz intuitiva y una gran variedad de tutoriales y guías disponibles.
+Asequibilidad: Tiene un precio único, sin costos ocultos ni límites en las funciones o datos.
+
+Transparencia: Es transparente en sus precios y condiciones. No hay sorpresas ni cargos ocultos.
+Es la solución perfecta para las empresas que buscan una manera de mejorar su productividad y eficiencia. Es la única aplicación que necesitas para gestionar todos los aspectos de tu negocio.
