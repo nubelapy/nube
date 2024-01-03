@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
-subtitle: 
-cover-img: /assets/img/Frame 5.png
+title: La aplicación web y APP que cubre todas las necesidades de tu empresa
+subtitle: ¿Eres un emprendedor o dueño de una pequeña empresa?
+cover-img: /assets/img/path.png
 thumbnail-img: /assets/img/Frame 5.png
 share-img: /assets/img/Frame 5.png
 tags: [Aplicación web y APP, CRM, Comercio electrónico, Contabilidad, Inventario, Punto de venta, Gestión de proyectos, Empresa, Emprendedor, Empresario, 20 a 40 años, 1 necesidad]
