@@ -1,7 +1,7 @@
 ---
 layout: post
-title: La aplicación web y APP que cubre todas las necesidades de tu empresa
-subtitle: ¿Eres un emprendedor o dueño de una pequeña empresa?
+title: 
+subtitle: 
 cover-img: /assets/img/Frame 5.png
 thumbnail-img: /assets/img/Frame 5.png
 share-img: /assets/img/Frame 5.png
