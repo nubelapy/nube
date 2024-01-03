@@ -2,15 +2,15 @@
 layout: post
 title: La aplicación web y APP que cubre todas las necesidades de tu empresa
 subtitle: ¿Eres un emprendedor o dueño de una pequeña empresa?
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/Frame 5.png
+thumbnail-img: /assets/img/Frame 5.png
+share-img: /assets/img/Frame 5.png
 tags: [Aplicación web y APP, CRM, Comercio electrónico, Contabilidad, Inventario, Punto de venta, Gestión de proyectos, Empresa, Emprendedor, Empresario, 20 a 40 años, 1 necesidad]
 ---
 
 ¿Eres un emprendedor o empresario que está buscando una aplicación web y APP que cubra todas las necesidades de tu empresa? ¿Quieres una solución que sea fácil de usar, asequible y que no tenga costos ocultos?
 
-Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo (https://www.odoo.com/es_ES)
+Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo
 
 Odoo es una aplicación web y APP que ofrece una amplia gama de funciones para las empresas de todos los tamaños. Estas funciones incluyen:
 
