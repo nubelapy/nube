@@ -26,9 +26,10 @@ Estas funciones incluyen:
 | Punto de venta | Gestiona tus ventas en el punto de venta |
 | Gestión de proyectos | Organiza y gestiona tus proyectos de forma eficiente |
 
+
 Además de estas funciones, Odoo también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
 
-| Caracteristicas |  |
+
 | :------ |:--- |
 | Asequible | Odoo ofrece un único pago sin costos ocultos | 
 | Transparente | Odoo no tiene límite en las funciones o datos | 
