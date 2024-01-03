@@ -27,19 +27,19 @@ Estas funciones incluyen algunas de muchas soluciones:
 | Gestión de proyectos | Organiza y gestiona tus proyectos de forma eficiente |
 
 
-Además de estas funciones, Odoo también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
+Además de estas funciones, también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
 
 
 | :------ |:--- |
-| Asequible | Odoo ofrece un único pago sin costos ocultos | 
-| Transparente | Odoo no tiene límite en las funciones o datos | 
-| Fácil de usar | Odoo tiene una interfaz intuitiva y fácil de usar | 
-| Segura | Odoo utiliza las últimas medidas de seguridad para proteger tus datos | 
+| Asequible | Ofrece un único pago sin costos ocultos | 
+| Transparente | No tiene límite en las funciones o datos | 
+| Fácil de usar | Tiene una interfaz intuitiva y fácil de usar | 
+| Segura | Utiliza las últimas medidas de seguridad para proteger tus datos | 
 
 
 Conclusión:
 
-Odoo es una solución ideal para las empresas de todos los tamaños que buscan una aplicación web y APP que cubra todas sus necesidades. Es asequible, transparente, fácil de usar y segura.
+Es una solución ideal para las empresas de todos los tamaños que buscan una aplicación web y APP que cubra todas sus necesidades. Es asequible, transparente, fácil de usar y segura.
 
 ¿Quieres saber más sobre Odoo? Chatea con nuestro Bot, escriba contacto y solicita una demostración gratuita.
 
