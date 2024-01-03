@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La aplicación que cubre todas las necesidades de tu empresa
+title: Una necesidad, una aplicación.
 subtitle: ¿Eres un emprendedor o dueño de una pequeña empresa?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Frame 5.png
