@@ -15,7 +15,7 @@ Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar d
 Odoo es una aplicación web y APP que ofrece una amplia gama de funciones para las empresas de todos los tamaños. 
 
 
-Estas funciones incluyen:
+Estas funciones incluyen algunas de muchas soluciones:
 
 | Aplicación | Solución |
 | :------ |:--- |
@@ -41,7 +41,7 @@ Conclusión:
 
 Odoo es una solución ideal para las empresas de todos los tamaños que buscan una aplicación web y APP que cubra todas sus necesidades. Es asequible, transparente, fácil de usar y segura.
 
-¿Quieres saber más sobre Odoo? Chatea con nuestro Bot y solicita una demostración gratuita.
+¿Quieres saber más sobre Odoo? Chatea con nuestro Bot, escriba contacto y solicita una demostración gratuita.
 
 {: .box-success}
 Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing digital localizado y de servicio completo. Le recomiendo encarecidamente que se [tome 5 minutos en explorar como le podemos ayudar](https://www.facebook.com/nube.io). Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a su empresa a adquirir y retener clientes. [Beneficios de nuestros servicios](https://nubelapy.github.io/nube/aboutme/).
