@@ -28,7 +28,7 @@ Estas funciones incluyen:
 
 Además de estas funciones, Odoo también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
 
-| Aplicación | Solución |
+| Caracteristicas |  |
 | :------ |:--- |
 | Asequible | Odoo ofrece un único pago sin costos ocultos | 
 | Transparente | Odoo no tiene límite en las funciones o datos | 
