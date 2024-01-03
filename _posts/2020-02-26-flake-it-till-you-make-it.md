@@ -10,7 +10,7 @@ tags: [Aplicación web y APP, CRM, Comercio electrónico, Contabilidad, Inventar
 
 ¿Eres un emprendedor o empresario que está buscando una aplicación web y APP que cubra todas las necesidades de tu empresa? ¿Quieres una solución que sea fácil de usar, asequible y que no tenga costos ocultos?
 
-Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo
+Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo(https://www.odoo.com/es_ES)
 
 Odoo es una aplicación web y APP que ofrece una amplia gama de funciones para las empresas de todos los tamaños. Estas funciones incluyen:
 
@@ -20,7 +20,7 @@ Contabilidad: Lleva la contabilidad de tu empresa de forma sencilla.
 Inventario: Controla tu inventario de forma eficaz.
 Punto de venta: Gestiona tus ventas en el punto de venta.
 Gestión de proyectos: Organiza y gestiona tus proyectos de forma eficiente.
-Además de estas funciones, Odoo.io también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
+Además de estas funciones, Odoo también ofrece una serie de características adicionales que la hacen una solución muy completa para las empresas:
 
 Asequible: Odoo ofrece un único pago sin costos ocultos.
 Transparente: Odoo no tiene límite en las funciones o datos.
