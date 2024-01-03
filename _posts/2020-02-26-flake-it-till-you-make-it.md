@@ -10,7 +10,7 @@ tags: [Aplicación web y APP, CRM, Comercio electrónico, Contabilidad, Inventar
 
 ¿Eres un emprendedor o empresario que está buscando una aplicación web y APP que cubra todas las necesidades de tu empresa? ¿Quieres una solución que sea fácil de usar, asequible y que no tenga costos ocultos?
 
-Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo(https://www.odoo.com/es_ES)
+Si es así, entonces estás en el lugar correcto. En este blog, vamos a hablar de una aplicación que cumple con todos estos requisitos: Odoo (https://www.odoo.com/es_ES)
 
 Odoo es una aplicación web y APP que ofrece una amplia gama de funciones para las empresas de todos los tamaños. Estas funciones incluyen:
 
