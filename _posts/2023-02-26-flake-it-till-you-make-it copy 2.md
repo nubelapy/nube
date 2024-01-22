@@ -23,7 +23,8 @@ Las campañas masivas por WhatsApp ofrecen una serie de ventajas, entre las que 
 
 | Solución | Ventaja |
 | :------ |:--- |
-| Alcance| WhatsApp tiene un alcance global, lo que significa que las empresas pueden llegar a su público objetivo en cualquier parte del mundo | Eficiencia | Las campañas masivas por WhatsApp son una forma eficiente de llegar a un gran número de personas con un solo mensaje |
+| Alcance| WhatsApp tiene un alcance global, lo que significa que las empresas pueden llegar a su público objetivo en cualquier parte del mundo |
+| Eficiencia | Las campañas masivas por WhatsApp son una forma eficiente de llegar a un gran número de personas con un solo mensaje |
 | Segmentación | Las empresas pueden segmentar sus campañas para llegar a un público objetivo específico | 
 
 Cómo realizar una campaña masiva por WhatsApp
@@ -38,7 +39,8 @@ Para crear campañas efectivas, las empresas deben tener en cuenta los siguiente
 
 
 | :------ |
-| Mantener los mensajes cortos y concisos. Los usuarios de WhatsApp suelen estar ocupados, por lo que es importante mantener los mensajes cortos y al grano | Utilizar un lenguaje claro y directo. Los mensajes deben ser fáciles de entender para el público objetivo | 
+| Mantener los mensajes cortos y concisos. Los usuarios de WhatsApp suelen estar ocupados, por lo que es importante mantener los mensajes cortos y al grano |
+| Utilizar un lenguaje claro y directo. Los mensajes deben ser fáciles de entender para el público objetivo | 
 | Personalizar los mensajes. Las empresas pueden personalizar los mensajes para dirigirse a su público objetivo de forma más efectiva |
 
 Conclusiones
