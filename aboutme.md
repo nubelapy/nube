@@ -29,4 +29,6 @@ subtitle: ¿Por qué querrías tener una cita con nosotros?
 - Podemos ayudarte a automatizar tus procesos con aplicaciones para móviles, tabletas y web que se adapten a las necesidades específicas de tu empresa. Desde CRM hasta comercio electrónico, contabilidad, inventario, punto de venta, seguimiento de entregas, gestión de proyectos y mucho más.
 - Podemos ayudarte con IA de conversación realista con agentes virtuales para sus aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales.
 - Podemos ayudarte a crear atractivas campañas de marketing por correo electrónico que atraen tráfico, generan ventas y le posicionan como líder de opinión en su campo.
-- Podemos  ayudar a su empresa o marca a llegar a las masas enviando campañas masivas por WhatsApp con promociones, catálogos o contenido multimedia.
+- Podemos ayudar a su empresa o marca a llegar a las masas enviando campañas masivas por WhatsApp con promociones, catálogos o contenido multimedia.
+- Creamos bases de datos de empresas y negocios que figuran en Google Maps de cualquier rubro, ciudad o país.
+Con estas bases de datos, puedes enviar campañas masivas de WhatsApp con promociones, catálogos o contenido multimedia a miles de clientes potenciales.
