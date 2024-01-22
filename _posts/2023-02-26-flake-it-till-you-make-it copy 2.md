@@ -3,8 +3,8 @@ layout: post
 title: Cómo llegar a las masas con campañas masivas por WhatsApp.
 subtitle: Campañas masivas con promociones, catálogos o contenido multimedia.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Frame 5.png
-share-img: /assets/img/Frame 5.png
+thumbnail-img: /assets/img/celular-mostrando-whatsapp.webp
+share-img: /assets/img/celular-mostrando-whatsapp.webp
 tags: [WhatsApp, campañas, masivas, marketing, empresas, negocios, clientes, promociones, catálogos, contenido]
 ---
 
