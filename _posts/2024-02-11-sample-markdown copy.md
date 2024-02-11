@@ -16,6 +16,8 @@ Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing 
 
 **App para talleres mecánicos:**
 
+¿Te imaginas poder gestionar tu taller desde cualquier lugar, en cualquier momento? Con una aplicación para talleres mecánicos, esto es posible. Despídete de las montañas de papeles, las agendas desorganizadas y los procesos ineficientes. ¡Es hora de dar un salto hacia la digitalización y optimizar tu negocio!
+
 | :------ |
 | Crea y guarda órdenes de servicio, vehículos y clientes |
 | Asigna trabajos a mecánicos | 
