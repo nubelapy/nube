@@ -33,13 +33,14 @@ Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing 
 **¿Cómo empezar?**
 
 | :------ |
-| Descarga la app (Android, iOS, Web) |
-| Crea una cuenta | 
-| ¡Empieza a gestionar tu taller |
+| Pasanos tu correo |
+| Descarga la app (Android, iOS, Web) | 
+| Empieza a gestionar tu taller |
 
 **Más información:**
+
 | :------ |
-| Visita nuestra web|
+
 | Contacta con nosotros | 
 
 ¡Gestiona tu taller de forma eficiente y exitosa! 
