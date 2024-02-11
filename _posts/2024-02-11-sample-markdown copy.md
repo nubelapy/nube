@@ -39,8 +39,8 @@ Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing 
 
 **Más información:**
 
-| :------ |
+| :-|
 
-| Contacta con nosotros | 
+| [Contacta con nosotros](https://wa.me/595991855292) | 
 
 ¡Gestiona tu taller de forma eficiente y exitosa! 
