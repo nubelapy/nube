@@ -33,7 +33,7 @@ Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing 
 **¿Cómo empezar?**
 
 | :------ |
-| Pasanos tu correo |
+| Pasanos tu correo para darte acceso a la demo |
 | Descarga la app (Android, iOS, Web) | 
 | Empieza a gestionar tu taller |
 
