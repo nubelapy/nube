@@ -8,10 +8,6 @@ tags: [growth marketing]
 comments: true
 ---
 
-{: .box-success}
-Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing digital localizado y de servicio completo. Le recomiendo encarecidamente que se [tome 5 minutos en explorar como le podemos ayudar](https://www.facebook.com/nube.io). Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a su empresa a adquirir y retener clientes. [Beneficios de nuestros servicios](https://nubelapy.github.io/nube/aboutme/).
-
-
 ## ¿Cansado del papeleo en tu taller mecánico? ¡Tenemos la solución!
 
 **App para talleres mecánicos:**
@@ -45,3 +41,6 @@ Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing 
 | [Contacta con nosotros](https://wa.me/595991855292) | 
 
 ¡Gestiona tu taller de forma eficiente y exitosa! 
+
+{: .box-success}
+Creamos sitios web, aplicaciones e integraciones y los combinamos con marketing digital localizado y de servicio completo. Le recomiendo encarecidamente que se [tome 5 minutos en explorar como le podemos ayudar](https://www.facebook.com/nube.io). Atraemos clientes a tu negocio a través de estrategias creativas y de bajo costo para ayudar a su empresa a adquirir y retener clientes. [Beneficios de nuestros servicios](https://nubelapy.github.io/nube/aboutme/).
