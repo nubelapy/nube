@@ -4,7 +4,7 @@ title: Campaña masiva de email marketing, llega a miles de empresas en Paraguay
 subtitle: ¿Necesitas contactar con empresas en Paraguay para aumentar tus ventas o hacer crecer tu negocio?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/email-marketing.png
-share-img: /assets/img/Frame 5.png
+share-img: /assets/img/email-marketing.png
 gh-repo: /nubelapy/nube
 gh-badge: [star,follow]
 tags: [growth marketing]
