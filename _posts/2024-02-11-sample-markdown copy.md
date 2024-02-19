@@ -2,6 +2,9 @@
 layout: post
 title: ¡Adiós al papeleo! Gestiona tu taller con una app
 subtitle: ¿Cansado del papeleo en tu taller mecánico? ¡Tenemos la solución!
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/taller.jpg
+share-img: /assets/img/taller.jpg
 gh-repo: /nubelapy/nube
 gh-badge: [star,follow]
 tags: [growth marketing]
