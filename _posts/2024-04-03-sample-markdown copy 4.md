@@ -40,8 +40,6 @@ Contacta con nosotros para obtener más información sobre la aplicación. ¡No 
 
 ¡Solicita una demo ahora y descubre todas sus ventajas!
 
-https://www.appsheet.com/start/fcfba6df-b9e6-4832-9afb-0617c8aca747 
-
 | [Dejame tu correo aqui para darte acceso](https://wa.me/595991855292) | 
 
 {: .box-success}
