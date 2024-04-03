@@ -40,6 +40,8 @@ Contacta con nosotros para obtener más información sobre la aplicación. ¡No 
 
 ¡Solicita una demo ahora y descubre todas sus ventajas!
 
+| [Video demostrativo](https://www.tiktok.com/@fedecattaneoweb/video/7346234072538336518) | 
+
 | [Dejame tu correo aqui para darte acceso](https://wa.me/595991855292) | 
 
 {: .box-success}
